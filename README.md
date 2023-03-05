@@ -32,6 +32,7 @@ interface
 몬스터에 인터페이스를 만들어 Attack, Take Damage, Avoid, ReduceHp등을 만들었고, 플레이어 또한 마찬가지다.
 
 
+게임 영상
 https://user-images.githubusercontent.com/123847770/222947946-f351d006-c146-4a7c-85f1-db21d45e3995.mp4
 
 
